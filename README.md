@@ -12,7 +12,7 @@
 [中文](README.cn.md)
 
 ## Implementation principle
-The project is encapsulated based on [brix/crypto-js][https://github.com/brix/crypto-js], including all the functions of the project
+The project is encapsulated based on [brix/crypto-js](https://github.com/brix/crypto-js), including all the functions of the project
 
 ## Usage method
 Because it is transplanted from NPM, the use method is completely consistent. Please go to the [official document](https://cryptojs.gitbook.io/docs/) to check the usage
