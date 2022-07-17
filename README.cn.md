@@ -9,8 +9,6 @@
 ![Author](https://img.shields.io/badge/Author-pcl--aacin-green)
 </p>
 
-[中文](README.cn.md)
-
 ## 运行原理
 本项目基于[brix/crypto-js](https://github.com/brix/crypto-js)进行了封装，包括该项目的所有功能。因为直接取源码自NPM，所以不会像一些Crypto-JS库返回空白
 
